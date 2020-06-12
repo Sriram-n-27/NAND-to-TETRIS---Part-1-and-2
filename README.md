@@ -1,5 +1,6 @@
 # NAND-to-TETRIS---Part-1-and-2
-From Nand to Tetris Building a Modern Computer From First Principles
+From Nand to Tetris Building a Modern Computer From First Principles.
+
 This project involves building a simple computer from the ground-up. 
 
 In PART 1, 
